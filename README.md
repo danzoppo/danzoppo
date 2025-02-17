@@ -1,4 +1,4 @@
-## Hi there 👋
+Work in finance by day, but have a general interest in (approximate) dynamic programming, i.e. reinforcement learning, and its applications across domains. Random projects here. 
 
 <!--
 **danzoppo/danzoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
